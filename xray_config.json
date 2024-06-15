@@ -203,7 +203,7 @@
     "outbounds": [
         {
             "protocol": "freedom",
-            "tag": "DIRECT"
+            "tag": "BLOCK"
         },
         {
             "protocol": "blackhole",
